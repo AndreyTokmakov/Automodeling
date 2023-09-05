@@ -1,0 +1,2 @@
+/home/andtokm/DiskS/ProjectsUbuntu/Automodeling/AutoModelingNew/build/CMakeFiles/rebuild_cache.dir
+/home/andtokm/DiskS/ProjectsUbuntu/Automodeling/AutoModelingNew/build/CMakeFiles/edit_cache.dir
